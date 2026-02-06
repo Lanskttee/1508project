@@ -4,7 +4,7 @@
 
 
 
-- Your proposal should state the **Title, Objective, Motivation, Requirements, and Milestones** of the project. The marking will consider the clarity of these parts.
+
 
 
 
@@ -85,6 +85,7 @@ The following milestones are to be accomplished through semester.
 -  Lim et al. (2021). Temporal Fusion Transformers for interpretable multi-horizon time series forecasting.
 - Nie et al. (2023). PatchTST: Long-term time series forecasting with patch-based transformers.
 - Lopez de Prado (2018). Advances in Financial Machine Learning (validation and leakage controls).
+
 
 
 
