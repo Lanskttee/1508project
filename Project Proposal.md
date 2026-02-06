@@ -71,9 +71,10 @@ The following milestones are to be accomplished through semester.
 
 | Phase               | Scope                                        | Deliverables                                                 |
 | ------------------- | -------------------------------------------- | ------------------------------------------------------------ |
-| Phase 1 (1-2 weeks) | Validation hardening + OOF pipeline          | Time-based CV module; OOF store; baseline  LGBM score & stability report |
-| Phase 2 (1-2 weeks) | PatchTST implementation + tuning             | PatchTST training/inference; OOF  predictions; LGBM+PatchTST blending |
-| Phase 3 (2-3 weeks) | TFT implementation + careful  regularization | TFT OOF; diagnostics; tri-model blending;  optional regime-weighting |
+| Phase 1 (1-2 weeks) | Exploratory Data Analysis + Feature Engineering| Processed data sample and processed features |
+| Phase 2 (2-3 weeks) | Validation hardening + OOF pipeline          | Time-based CV module; OOF store; baseline  LGBM score & stability report |
+| Phase 3 (3-4 weeks) | PatchTST implementation + tuning             | PatchTST training/inference; OOF  predictions |
+| Phase 4 (4-5 weeks) | TFT implementation + careful  regularization | TFT OOF; diagnostics; tri-model blending |
 | Phase 4 (ongoing)   | Finalize ensemble + runtime optimization     | Final submission candidates; ablation  report; reproducible inference notebook |
 
 
@@ -84,5 +85,6 @@ The following milestones are to be accomplished through semester.
 -  Lim et al. (2021). Temporal Fusion Transformers for interpretable multi-horizon time series forecasting.
 - Nie et al. (2023). PatchTST: Long-term time series forecasting with patch-based transformers.
 - Lopez de Prado (2018). Advances in Financial Machine Learning (validation and leakage controls).
+
 
 
